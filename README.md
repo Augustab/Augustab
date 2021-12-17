@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/55620261/146531660-c3aea254-c26d-4bfd-adbd-a4497fda859a.png)
 
 <!--
 **Augustab/Augustab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
