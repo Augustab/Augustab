@@ -1,5 +1,5 @@
-### Hi there 👋
-![image](https://user-images.githubusercontent.com/55620261/146531660-c3aea254-c26d-4bfd-adbd-a4497fda859a.png)
+### Hi there 👋 
+# Im a 22 year old studying Computer Science at NTNU in Trondheim. My chosen specialization is Artificial Intelligence. Most of my repositories are from courses i've taken at NTNU. Most of my commits are from working at Tise.
 
 <!--
 **Augustab/Augustab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
