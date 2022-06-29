@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Im a 23 year old studying Computer Science at NTNU in Trondheim. My chosen specialization is Artificial Intelligence. Most of my repositories are from courses i've taken at NTNU. Most of my commits are from working at Tise.
+Im a 23 year old studying Computer Science at NTNU in Trondheim. My chosen specialization is Artificial Intelligence. Most of my repositories are from courses i've taken at NTNU. Most of my commits are from working at Tise and Bekk.
 
 <!--
 **Augustab/Augustab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
